@@ -1,5 +1,5 @@
 body {
-    background-color: #D2B48C;
+    background-color: #f0f0f0;
 }
 
 /* wrapper div that holds all of the content divs for the page */
@@ -32,7 +32,7 @@ th {
     height: 30px;
     text-align: center;
     vertical-align: middle;
-    background-color: #FFFF99;
+    background-color: #FFFFE0;
     color: #696969;
 }
 
@@ -45,7 +45,7 @@ td {
 
 input[readonly] {background-color:gray;}
 
-tr:nth-child(even) {background-color: #EDEDED;}
+tr:nth-child(even) {background-color: #C0C0C0;}
 
 tr:hover {background-color: #CCCCCC;}
 

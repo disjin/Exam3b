@@ -1,4 +1,4 @@
-<div class="nav">
+<div class="navcontainer">
     <ul class="navlist">
         <li class="active"><a href="adminIndex.jsp" id="current"> Home</a></li>
         <li><a href="read">Customers List</a></li>
