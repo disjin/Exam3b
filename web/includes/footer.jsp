@@ -1,4 +1,4 @@
-<div class="footer">
-
+<div class="footer"> <!--footer div -->
+    
         &copy; Copyright 2017 SoftwareDesignAndDevelopment.com | All rights reserved
-</div>
+</div> <!--close footer div -->
