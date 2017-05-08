@@ -4,7 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Dishuang's Exam3b</title>
-        <link rel="stylesheet" type="text/css" href="styles.css"/>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
     </head>
     <body>
         <div class="wrap"> <!-- div to hold all other divs -->
